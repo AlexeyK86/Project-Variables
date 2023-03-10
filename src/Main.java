@@ -106,5 +106,6 @@ public class Main {
         var workingHours2 = 8;
         var totalTime2 = numberEmployees2 * workingHours2;
         System.out.println("Если в компании работает " + numberEmployees2 + " человека, то всего " + totalTime2 + " часов работы может быть поделено между сотрудниками" );
-      }
+        //ДЗ выполнил
+    }
     }
